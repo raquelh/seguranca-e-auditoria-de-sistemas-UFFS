@@ -47,7 +47,7 @@ Repositório destinado aos trabalhos e tarefas da disciplina de Segurança e Aud
   
     Exponenciação Rápida:
     
-      ![Fórmula da tarefa 3](tarefa3.png?raw=true)
+      ![Fórmula da tarefa 3](img/tarefa3.png?raw=true)
   
   - Tarefa 4:
   
