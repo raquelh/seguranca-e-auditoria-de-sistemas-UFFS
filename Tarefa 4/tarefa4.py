@@ -6,8 +6,8 @@ def gcd(a, b):
 def lcm(a, b):
 	return ((a / gcd(a, b)) * b)
 
-def sum(n, p):
-    return n * (p // n) * ((p // n) + 1) // 2
+def sum(k, n):
+    return k * (n // k) * ((n // k) + 1) // 2
 
 def euler(a,b,n):
     return int(sum(a, n) + sum(b, n) - sum(lcm(a,b), n))
